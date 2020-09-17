@@ -41,10 +41,11 @@ const projectId = "Place your dialogflow projectId here";
 const environmentName = "Place your twitter environment name here";
 
 const twitterOAuth = {
-  consumer_key: twitterAPIKey,
-  consumer_secret: twitterSecretAPIKey,
-  token: twitterAccessToken,
-  token_secret: twitterSecretAccessToken
+  consumer_key: asXxSjAPMlTUT0gBDylk4Vw72,
+  consumer_secret: 
+l1WIafytdsdvuTUGrbhEg4jvSzIQXgWd4jTFYkD2EYlIokeFGH,
+  token: 1252119281162022912-9Ni4ILbcu4CYDhMb8aTmP6mdoP4BM5,
+  token_secret: 43KpPpfGrEArYBv5or7ji7u1KqtGnXeeiixK3mYMQuoOh
 };
 
 const twitterId = twitterAccessToken.substring(0, twitterAccessToken.indexOf("-"));
